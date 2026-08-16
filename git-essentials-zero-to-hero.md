@@ -2958,5 +2958,3 @@ history searching
 advanced recovery
 team workflows
 ```
-
-Once you can confidently explain **why** you are using each command—not merely memorize it—you have moved from basic Git usage toward genuine Git fluency.
